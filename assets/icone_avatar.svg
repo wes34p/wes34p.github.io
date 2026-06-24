@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-label="WLS">
+  <style>.wls{font-family:Barlow,'Saira','Segoe UI',Arial,sans-serif;font-weight:800;}</style>
+  <rect x="0" y="0" width="240" height="240" rx="46" fill="#1F3B66"/>
+  <text class="wls" x="120" y="150" font-size="104" fill="#FFFFFF" text-anchor="middle">WLS</text>
+  <rect x="62" y="178" width="116" height="11" rx="5" fill="#C8932E"/>
+</svg>

@@ -1,4 +1,5 @@
-User-agent: *
+User-Agent: *
 Allow: /
 
 Sitemap: https://www.wlsengenharia.com.br/sitemap.xml
+Host: https://www.wlsengenharia.com.br

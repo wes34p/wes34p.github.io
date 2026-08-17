@@ -1,9 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://www.wlsengenharia.com.br/</loc>
-    <lastmod>2026-07-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
-  </url>
+<url>
+<loc>https://www.wlsengenharia.com.br</loc>
+<lastmod>2026-08-16T00:00:00.000Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1</priority>
+</url>
+<url>
+<loc>https://www.wlsengenharia.com.br/servicos</loc>
+<lastmod>2026-08-16T00:00:00.000Z</lastmod>
+<changefreq>quarterly</changefreq>
+<priority>0.85</priority>
+</url>
+<url>
+<loc>https://www.wlsengenharia.com.br/projetos-eletricos</loc>
+<lastmod>2026-08-16T00:00:00.000Z</lastmod>
+<changefreq>quarterly</changefreq>
+<priority>0.85</priority>
+</url>
+<url>
+<loc>https://www.wlsengenharia.com.br/spda-aterramento</loc>
+<lastmod>2026-08-16T00:00:00.000Z</lastmod>
+<changefreq>quarterly</changefreq>
+<priority>0.85</priority>
+</url>
+<url>
+<loc>https://www.wlsengenharia.com.br/laudos-inspecoes</loc>
+<lastmod>2026-08-16T00:00:00.000Z</lastmod>
+<changefreq>quarterly</changefreq>
+<priority>0.85</priority>
+</url>
+<url>
+<loc>https://www.wlsengenharia.com.br/as-built-documentacao</loc>
+<lastmod>2026-08-16T00:00:00.000Z</lastmod>
+<changefreq>quarterly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://www.wlsengenharia.com.br/empresa</loc>
+<lastmod>2026-08-16T00:00:00.000Z</lastmod>
+<changefreq>quarterly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://www.wlsengenharia.com.br/contato</loc>
+<lastmod>2026-08-16T00:00:00.000Z</lastmod>
+<changefreq>quarterly</changefreq>
+<priority>0.7</priority>
+</url>
 </urlset>
